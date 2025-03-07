@@ -1,0 +1,26 @@
+{
+  "name": "api-rest-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yayacore/API-Rest-CRUD.git"
+  },
+  "author": "yaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yayacore/API-Rest-CRUD/issues"
+  },
+  "homepage": "https://github.com/yayacore/API-Rest-CRUD#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0",
+    "sequelize": "^6.37.6"
+  }
+}
